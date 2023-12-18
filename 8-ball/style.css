@@ -1,0 +1,45 @@
+html {
+  background-color: purple;
+}
+
+body {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid black;
+  width: 500px;
+  margin: auto;
+  padding: 25px 75px;
+  border-radius: 10px;
+}
+
+h1 {
+  color: purple;
+}
+
+h1,
+h2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+width: 200px ;
+}
+
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+input {
+  width: 300px;
+  font-size: 20px;
+  padding: 5px;
+  margin: 5px 0;
+}
+
+button {
+  font-size: 80px;
+}
+
